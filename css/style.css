@@ -343,4 +343,7 @@ h2 {
     flex-wrap: wrap;
     gap: 18px;
   }
+  .input-singup > input {
+    width: 100px;
+  }
 }/*# sourceMappingURL=style.css.map */
